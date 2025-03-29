@@ -1,0 +1,15 @@
+C:\Users\Aayush\Source\Repos\ExcellingC-\MyFirstConsoleApp\bin\Debug\net8.0\MyFirstConsoleApp.exe
+C:\Users\Aayush\Source\Repos\ExcellingC-\MyFirstConsoleApp\bin\Debug\net8.0\MyFirstConsoleApp.deps.json
+C:\Users\Aayush\Source\Repos\ExcellingC-\MyFirstConsoleApp\bin\Debug\net8.0\MyFirstConsoleApp.runtimeconfig.json
+C:\Users\Aayush\Source\Repos\ExcellingC-\MyFirstConsoleApp\bin\Debug\net8.0\MyFirstConsoleApp.dll
+C:\Users\Aayush\Source\Repos\ExcellingC-\MyFirstConsoleApp\bin\Debug\net8.0\MyFirstConsoleApp.pdb
+C:\Users\Aayush\Source\Repos\ExcellingC-\MyFirstConsoleApp\obj\Debug\net8.0\MyFirstConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aayush\Source\Repos\ExcellingC-\MyFirstConsoleApp\obj\Debug\net8.0\MyFirstConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Aayush\Source\Repos\ExcellingC-\MyFirstConsoleApp\obj\Debug\net8.0\MyFirstConsoleApp.AssemblyInfo.cs
+C:\Users\Aayush\Source\Repos\ExcellingC-\MyFirstConsoleApp\obj\Debug\net8.0\MyFirstConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Aayush\Source\Repos\ExcellingC-\MyFirstConsoleApp\obj\Debug\net8.0\MyFirstConsoleApp.sourcelink.json
+C:\Users\Aayush\Source\Repos\ExcellingC-\MyFirstConsoleApp\obj\Debug\net8.0\MyFirstConsoleApp.dll
+C:\Users\Aayush\Source\Repos\ExcellingC-\MyFirstConsoleApp\obj\Debug\net8.0\refint\MyFirstConsoleApp.dll
+C:\Users\Aayush\Source\Repos\ExcellingC-\MyFirstConsoleApp\obj\Debug\net8.0\MyFirstConsoleApp.pdb
+C:\Users\Aayush\Source\Repos\ExcellingC-\MyFirstConsoleApp\obj\Debug\net8.0\MyFirstConsoleApp.genruntimeconfig.cache
+C:\Users\Aayush\Source\Repos\ExcellingC-\MyFirstConsoleApp\obj\Debug\net8.0\ref\MyFirstConsoleApp.dll
