@@ -1,0 +1,14 @@
+using System;
+
+class Program
+{
+    public static void Main(string[] args)
+    {
+        Console.WriteLine("Enter the feets and inches respective");
+        var feet = Convert.ToDouble(Console.ReadLine());
+        var inches = Convert.ToDouble(Console.ReadLine());
+
+        var totalCms = ((feet * 12) + inches) * 2.54;
+        Console.WriteLine($"The total cms is {totalCms}");
+    }
+}
